@@ -1,0 +1,1 @@
+console.lgo('Ahora o nunca')
